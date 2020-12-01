@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  color: #172648;
+}
+.image-div {
+  height: 60vh;
+  background-color: #eaf2f4;
+}
+.img {
+  height: 100%;
+  width: 100%;
+}
+.text {
+  margin-top: 5%;
+}
+h2 {
+  font-weight: 700;
+}
+
+span {
+  color: #75aab9;
+}
+
+.custom-col > p {
+  color: #878c93;
+}
